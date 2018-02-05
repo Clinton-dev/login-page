@@ -49,10 +49,10 @@ input[type ="text"], input[type ="password"]{
 
 .btn-login {
 	padding: 15px 30px;
-	background-color: green;
+	background-color: rgb(10, 255, 16);
 	border:none;
 	border-radius: 4px;
-	border-bottom: 4px solid #27AE60;
+	border-bottom: 4px solid #06A30A;
 }
 
 a {
